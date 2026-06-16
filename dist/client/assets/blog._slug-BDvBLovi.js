@@ -1,0 +1,1 @@
+import{j as t,L as s}from"./index-Dr5VupMG.js";const n=()=>t.jsxs("div",{className:"flex min-h-screen flex-col items-center justify-center px-4",children:[t.jsx("h1",{className:"font-display text-3xl",children:"Article not found"}),t.jsx(s,{to:"/blog",className:"mt-4 text-gold story-link",children:"Back to all insights"})]});export{n as notFoundComponent};
